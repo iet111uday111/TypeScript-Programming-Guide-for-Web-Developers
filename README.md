@@ -304,16 +304,36 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 #### Node & NPM
 ![Alt text](./Screenshots/Screenshot6.png?raw=true "Optional Title")
 
-#### Typescript Concepts
+#### Why Js is great.
 ![Alt text](./Screenshots/Screenshot7.png?raw=true "Optional Title")
 
-#### What is Typescript.
+#### What ES5 missing?
 ![Alt text](./Screenshots/Screenshot8.png?raw=true "Optional Title")
 
-#### Typescript Concepts
+#### Typescript Features
 ![Alt text](./Screenshots/Screenshot9.png?raw=true "Optional Title")
 
-#### What is Typescript.
+#### Static Type Checking
 ![Alt text](./Screenshots/Screenshot10.png?raw=true "Optional Title")
 
+#### Common Type
+![Alt text](./Screenshots/Screenshot11.png?raw=true "Optional Title")
+
+#### Other Types
+![Alt text](./Screenshots/Screenshot12.png?raw=true "Optional Title")
+
+#### Object Based Classes
+![Alt text](./Screenshots/Screenshot13.png?raw=true "Optional Title")
+
+#### Simple Class
+![Alt text](./Screenshots/Screenshot14.png?raw=true "Optional Title")
+
+#### Varible Declaration and Block Scoping
+![Alt text](./Screenshots/Screenshot15.png?raw=true "Optional Title")
+
+#### Interface
+![Alt text](./Screenshots/Screenshot16.png?raw=true "Optional Title")
+
+#### Generics
+![Alt text](./Screenshots/Screenshot17.png?raw=true "Optional Title")
 
